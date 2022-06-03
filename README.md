@@ -1,1 +1,2 @@
-# ios-combine-training
+# WeatherCombineDemo
+Weather app demo base on Combine framework

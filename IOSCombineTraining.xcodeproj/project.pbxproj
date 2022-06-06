@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7C0D9C9D255303270057899B /* WeatherCombineDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherCombineDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C0D9C9D255303270057899B /* IOSCombineTraining.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOSCombineTraining.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C0D9CA0255303270057899B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7C0D9CA4255303270057899B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7C0D9CA7255303270057899B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -49,7 +49,7 @@
 			isa = PBXGroup;
 			children = (
 				7C0D9CA9255303280057899B /* Assets.xcassets */,
-				7C0D9C9F255303270057899B /* WeatherCombineDemo */,
+				7C0D9C9F255303270057899B /* IOSCombineTraining */,
 				7C0D9C9E255303270057899B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,12 +57,12 @@
 		7C0D9C9E255303270057899B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7C0D9C9D255303270057899B /* WeatherCombineDemo.app */,
+				7C0D9C9D255303270057899B /* IOSCombineTraining.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7C0D9C9F255303270057899B /* WeatherCombineDemo */ = {
+		7C0D9C9F255303270057899B /* IOSCombineTraining */ = {
 			isa = PBXGroup;
 			children = (
 				7C2F4FD9255307860087C999 /* Storyboards */,
@@ -73,7 +73,7 @@
 				7C0D9CA0255303270057899B /* AppDelegate.swift */,
 				7C0D9CAE255303280057899B /* Info.plist */,
 			);
-			path = WeatherCombineDemo;
+			path = IOSCombineTraining;
 			sourceTree = "<group>";
 		};
 		7C2F4FCC255304900087C999 /* Networking */ = {
@@ -122,9 +122,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7C0D9C9C255303270057899B /* WeatherCombineDemo */ = {
+		7C0D9C9C255303270057899B /* IOSCombineTraining */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7C0D9CB1255303280057899B /* Build configuration list for PBXNativeTarget "WeatherCombineDemo" */;
+			buildConfigurationList = 7C0D9CB1255303280057899B /* Build configuration list for PBXNativeTarget "IOSCombineTraining" */;
 			buildPhases = (
 				7C0D9C99255303270057899B /* Sources */,
 				7C0D9C9A255303270057899B /* Frameworks */,
@@ -134,9 +134,9 @@
 			);
 			dependencies = (
 			);
-			name = WeatherCombineDemo;
+			name = IOSCombineTraining;
 			productName = WeatherCombineDemo;
-			productReference = 7C0D9C9D255303270057899B /* WeatherCombineDemo.app */;
+			productReference = 7C0D9C9D255303270057899B /* IOSCombineTraining.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -153,7 +153,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7C0D9C98255303270057899B /* Build configuration list for PBXProject "WeatherCombineDemo" */;
+			buildConfigurationList = 7C0D9C98255303270057899B /* Build configuration list for PBXProject "IOSCombineTraining" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -166,7 +166,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7C0D9C9C255303270057899B /* WeatherCombineDemo */,
+				7C0D9C9C255303270057899B /* IOSCombineTraining */,
 			);
 		};
 /* End PBXProject section */
@@ -380,7 +380,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7C0D9C98255303270057899B /* Build configuration list for PBXProject "WeatherCombineDemo" */ = {
+		7C0D9C98255303270057899B /* Build configuration list for PBXProject "IOSCombineTraining" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7C0D9CAF255303280057899B /* Debug */,
@@ -389,7 +389,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7C0D9CB1255303280057899B /* Build configuration list for PBXNativeTarget "WeatherCombineDemo" */ = {
+		7C0D9CB1255303280057899B /* Build configuration list for PBXNativeTarget "IOSCombineTraining" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7C0D9CB2255303280057899B /* Debug */,
